@@ -1,0 +1,15 @@
+---
+title: "My Submission"
+author: "Fin Fullmer"
+date: "2026-10-08"
+output: html_document
+---
+## Why is version control important
+1. Allows you to see how you've manipulated your data
+2. Can go back to see past versions of a file 
+3. Aids in helping others follow your train of thought, project reproduceability
+4. James Watt said so 
+
+```{R}
+1+1
+```
